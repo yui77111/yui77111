@@ -1,4 +1,6 @@
-<div align='center' ><font size='70'>Hi! I'm thomas👋</font></div>
+<h1 align="center">
+    Hi! I'm thomas👋
+</h1>
 
 <!--
 **yui77111/yui77111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github-snake](img/github-snake.svg)
+<img src="img/github-snake.svg" alt="github-snake" style="zoom:80%;" />
 
