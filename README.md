@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="img/github-snake.svg" alt="github-snake" style="zoom:71%;" />
+<img src="https://raw.githubusercontent.com/yui77111/yui77111/master/img/github-snake.svg" style="zoom:71%;" />
 
