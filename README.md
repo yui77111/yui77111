@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
 
-<img src="https://raw.githubusercontent.com/yui77111/yui77111/master/img/github-snake.svg" style="zoom:71%;" />
+<p align="center">
+<img width="630" src="https://raw.githubusercontent.com/yui77111/yui77111/master/img/github-snake.svg" />
+</p>
 
